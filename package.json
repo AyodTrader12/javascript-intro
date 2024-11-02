@@ -1,0 +1,17 @@
+{
+  "name": "set-10-javascript",
+  "version": "1.0.0",
+  "main": "Algorithm/promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " nodemon ./Algorithm/promise.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
