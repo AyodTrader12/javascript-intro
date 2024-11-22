@@ -9,13 +9,13 @@ let person = {
 };
 //dot notation
 console.log(
-    person.name;
-    person.age;
-    person.complexion;
-    person.isMale;
-    person.isAlive;
-    person.isDating;
-    person.height;
+    person.name,
+    person.age,
+    person.complexion,
+    person.isMale,
+    person.isAlive,
+    person.isDating,
+    person.height,
 );
 
     const school = {
@@ -60,8 +60,8 @@ console.log(
         },
 
         console.log(
-          compound.landlord;
-          compound.children;
-          compound.tenantone.name;
-          compound.tenanatTwo.firstChild.babymamas
+          compound.landlord,
+          compound.children,
+          compound.tenantone.name,
+          compound.tenanatTwo.firstChild.babymamas,
         );

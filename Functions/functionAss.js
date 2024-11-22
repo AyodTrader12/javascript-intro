@@ -203,3 +203,9 @@ let arrofID = [12345, 5674, 8292, 3284, 1922, 4382, 2230, 7344, 4393];
 
 const splicedOut = arrofID.splice(arrofID.indexOf(12345), 1);
 console.log(arrofID);
+
+const book = (name) => {
+  let x = booked;
+  let y = x.toLowerCase();
+  return y;
+};
