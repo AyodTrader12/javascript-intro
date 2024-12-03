@@ -209,3 +209,9 @@ const book = (name) => {
   let y = x.toLowerCase();
   return y;
 };
+
+const book1 = (name) => {
+  let x = booked;
+  let y = x.toLowerCase();
+  return y;
+};
